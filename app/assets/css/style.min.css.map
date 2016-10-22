@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAO;EACN,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,IAAI",
+"sources": ["../../../src/scss/partials/_body.scss"],
+"names": [],
+"file": "style.min.css"
+}

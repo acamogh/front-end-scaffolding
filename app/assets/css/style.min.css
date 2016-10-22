@@ -1,0 +1,17 @@
+/*!
+ * htmlscaffolding
+ * Basic web scaffolding
+ * http://cartoonmango.com
+ * @author Arun Prasad
+ * @version 
+ * Copyright .  licensed.
+ */
+
+section {
+  height: 20px;
+  width: 100%;
+  background: #ab1230;
+  color: pink;
+}
+
+/*# sourceMappingURL=style.min.css.map */
